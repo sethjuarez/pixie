@@ -12,7 +12,7 @@ namespace pixie
             
         }
 
-        public void Forward(IActivation activation)
+        public void Forward(IActivation<double> activation)
         {
 
         }
